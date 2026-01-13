@@ -1,4 +1,4 @@
-# scRNA-seq-Analyis-for-RAS-inhibition-in-PDAC-Project
+# scRNA-seq-Analysis-for-RAS-inhibition-in-PDAC-Project
 
 Single-cell analysis on the following models:
 1) Degron-regulated KRASG12D-dependent transplantation model
