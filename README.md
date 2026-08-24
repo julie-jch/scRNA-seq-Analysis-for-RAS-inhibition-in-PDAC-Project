@@ -12,5 +12,5 @@ This repository contains processed single-cell RNA sequencing (scRNA-seq) datase
  
 # Repository contents
 
- Data/ – contains metadata and processed expression matrices used for downstream analysis.
- Code/ – Python script
+* Data/ – contains metadata and processed expression matrices used for downstream analysis.
+* Code/ – Python script
