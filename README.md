@@ -1,3 +1,13 @@
+# About
+
+This repository hosts the codes and meta data for the paper "FYN and Other Src Family Kinases Antagonize Response to RAS inhibition in Pancreatic Ductal Adenocarcinoma".
+
+# Citation
+
+{}
+
+Link to manuscript: {}
+
 # scRNA-seq-Analysis-for-RAS-inhibition-in-PDAC-Project
 
 Single-cell analysis on the following models:
